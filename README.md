@@ -1,4 +1,4 @@
-> **react-native layout examples for common cases.**
+> **Common layouts solved with flexbox in react-native.**
 >
 > This project is a playground to compare common layouts with pure react-native
 > and with my keep it simple and add semantic library
