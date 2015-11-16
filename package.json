@@ -1,0 +1,23 @@
+{
+  "name": "react-native-layout-examples",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "upgrade": "react-native upgrade",
+    "start": "react-native start",
+    "start:android": "react-native run-android",
+    "start:ios": "open ios/RNNavigationExamples.xcodeproj",
+    "lint": "eslint src"
+  },
+  "dependencies": {
+    "react-native": "^0.14.2",
+    "react-native-layout": "0.0.3",
+    "react-redux": "^3.1.0",
+    "redux": "^3.0.4",
+    "redux-persist": "^1.4.1"
+  },
+  "devDependencies": {
+    "react-native-cli": "^0.1.7",
+    "eslint": "^1.9.0"
+  }
+}
