@@ -10,8 +10,9 @@
     "lint": "eslint src"
   },
   "dependencies": {
+    "@exponent/react-native-navigator": "^0.3.0",
     "react-native": "^0.14.2",
-    "react-native-layout": "0.0.3",
+    "react-native-layout": "^0.0.3",
     "react-redux": "^3.1.0",
     "redux": "^3.0.4",
     "redux-persist": "^1.4.1"
