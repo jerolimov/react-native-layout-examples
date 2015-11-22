@@ -846,6 +846,7 @@
 				590E6FA01C023162003293F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "RNLayoutExamples" */ = {
 			isa = XCConfigurationList;
